@@ -1,0 +1,68 @@
+body	{
+	background-color: #FFF6E5;
+	}
+a:link, a:visited {
+    background-color: #FFF6E5;
+    color: #825B4A;
+    border: .3px solid #825B4A;
+    padding: 3px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}	
+
+h1	{
+	color: #C16F5B;
+	font-family: "Wawati SC";
+	background-color: #F4D9C1	}
+	
+p	{
+	color: #825B4A;
+	font-family: "Wawati SC";
+	}
+	
+ul	{
+	background-color: #FFF6E5
+	color: #825B4A;
+	font-family: "Wawati SC";
+	}
+	
+a	{
+	color: #BA8968;
+	font-family: "Wawati SC";
+	}
+	
+
+ul	{
+	color: #825B4A;
+	font-family: "Wawati SC";
+	}
+	
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color: #825B4A;
+    font-family: "Wawati SC"
+    
+   
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #E5D0B5;
+    min-width: 160px;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
